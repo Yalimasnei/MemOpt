@@ -1,6 +1,6 @@
 {
-  "versionCode"=1,
-  "version"=v1
-  zipUrl": "https://github.com/Yalimasnei/Magisk_MemOpt/releases/download/v1/MemOpt.zip"
+  "versionCode": 1,
+  "version": v1
+  "zipUrl": "https://github.com/Yalimasnei/Magisk_MemOpt/releases/download/v1/MemOpt.zip",
   "changelog": "https://github.com/Yalimasnei/MemOpt/raw/main/changelog.md"
 }
