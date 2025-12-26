@@ -7,4 +7,4 @@ Optimize memory parameters to restore ZRAM to normal.
 - If you need to adjust the memory size of your Xiaomi device, modify the following directory: /system_ext/etc/perfinit_bdsize_zram.conf
 
 ## Refer
-Pandora Kernel
+Pandora kernel project
