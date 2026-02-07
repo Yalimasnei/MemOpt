@@ -9,4 +9,4 @@ Xiaomi 14 16G RAM, OS3.0.5.0
 Xiaomi 15 16G RAM, OS3.0.6.0 X
 
 ## Refer
-Pandora kernel project
+Pandora kernel
