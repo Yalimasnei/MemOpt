@@ -7,6 +7,7 @@ Enhance the device experience.
 Xiaomi 13 12G RAM, OS3.0.2.0  
 Xiaomi 14 16G RAM, OS3.0.5.0  
 Xiaomi 15 16G RAM, OS3.0.6.0 X
+Redmi K90PM 16G RAM, OS3.0.303.0
 
 ## Refer
 Pandora kernel
