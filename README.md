@@ -2,7 +2,7 @@
 Enhance the device experience.
 
 ## Notes
-- Currently supports kernel versions 5.15 - 6.12
+- Supports kernel versions 5.15 - 6.12
 - Test device:  
 Xiaomi 13 12G RAM, OS3.0.2.0  
 Xiaomi 14 16G RAM, OS3.0.5.0  
