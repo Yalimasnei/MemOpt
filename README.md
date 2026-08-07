@@ -2,7 +2,9 @@
 Enhance the device experience.
 
 ## Notes
-- Supports kernel versions 5.15 - 6.12
+- Supports kernel versions 5.15 - 6.12  
+5.15-6.1 > THP  
+6.6+ > MTHP  
 - Test device:  
 Xiaomi 13 12G RAM, OS3.0.2.0  
 Xiaomi 14 16G RAM, OS3.0.5.0  
